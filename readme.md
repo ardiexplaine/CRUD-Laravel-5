@@ -1,8 +1,8 @@
 ## CRUD Laravel 5 PHP Framework
 
 ![alt tag](http://i.imgur.com/shZE11V.png)
+### SETTING UP
 
-Setting UP
 1. First require it in :  **composer require "illuminate/html":"5.0."**
 	Next up add the service provider and aliases. Open /config/app.php and update as follows:
     
