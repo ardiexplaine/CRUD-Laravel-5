@@ -1,6 +1,6 @@
 ## CRUD Laravel 5 PHP Framework
 
-![]({{site.baseurl}}/http://i.imgur.com/shZE11V.png)
+![alt tag](http://i.imgur.com/shZE11V.png)
 
 Setting UP
 1. First require it in :  composer require "illuminate/html":"5.0.*"
