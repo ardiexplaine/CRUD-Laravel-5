@@ -3,11 +3,8 @@
 ![alt tag](http://i.imgur.com/shZE11V.png)
 
 Setting UP
-
-1. First require it in :  
-	composer require "illuminate/html":"5.0.*"
-	
-    Next up add the service provider and aliases. Open /config/app.php and update as follows:
+1. First require it in :  **composer require "illuminate/html":"5.0."**
+	Next up add the service provider and aliases. Open /config/app.php and update as follows:
     
 	'providers' => [
 		... 
